@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Branice</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbuda-branice-njira&label=Profile%20views&color=0e75b6&style=flat" alt="mbuda-branice-njira" /> </p>
+<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k5NnByNTB2aXQ4MzhtNDdjZGt3OGtrcWlqNm1mNTZveXhsM2UzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif" alt="mbuda-branice-njira" /> </p>
 
 - 🔭 I’m currently working on **School Asighnment Software**
 
