@@ -1,13 +1,12 @@
-# Hi there, I'm Mbuda Branice Njira! 👋
-
+# Hi, I'm Mbuda Branice Njira! 👋
 ![Animated Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🚀 About Me
+##About Me
 
 I'm a passionate full-stack developer with a love for clean code and innovative solutions. My journey in tech is fueled by curiosity and the desire to create meaningful applications.
 
-- 🔭 Currently working on: Next-generation web applications
-- 🌱 Learning: Advanced cloud architectures & AI integration
+- 🔭 Currently working on: School-System web applications
+- 🌱 Learning: PHP
 - 💬 Ask me about: Web development, system design, or career growth
 - ⚡ Fun fact: I consider debugging my superpower - every error is a puzzle to solve! 🧩
 
@@ -22,24 +21,24 @@ I'm a passionate full-stack developer with a love for clean code and innovative 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-![Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&area=true&hide_border=true)
+![Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&theme=redical&area=true&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&fire=DD472B)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&theme=radical&fire=DD472B)
 
 ## 🌎 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbuda-branice-njira-a04771305/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBUDA-BRANICE-NJIRA)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 
 ## 🎯 Recent Achievements
 
-- 🏆 Completed 100 days of code challenge
+- 🏆 Completed 100 days of code challenge learnin on Javascript
 - 🚀 Launched my first open-source project
 - 📈 Contributed to 5+ repositories this month
 
