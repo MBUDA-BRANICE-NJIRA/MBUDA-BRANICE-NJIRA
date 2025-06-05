@@ -47,7 +47,12 @@
 </p>
 
 
-### 📈 GitHub Stats
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbuda-branice-njira&theme=white&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbuda-branice-njira&show_icons=true&theme=tokyonight" alt="mbuda-branice-njira stats" />
