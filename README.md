@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MBUDA BRANICE NJIRA</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | Backend Specialist | Cloud Enthusiast</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbuda-branice-njira&label=Profile%20views&color=brightgreen&style=flat" alt="profile-views" />
@@ -22,6 +22,7 @@
 - 📫 Contact: **mbudanjira@gmail.com.com**
 
 ---
+
 
 ### 🛠️ Skills & Tools
 
@@ -47,9 +48,10 @@
   <img src="https://streak-stats.demolab.com?user=mbuda-branice-njira&theme=tokyonight&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mbuda-branice-njira&theme=github-compact" />
-</p>
+
+
+### 📈 GitHub Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mbuda-branice-njira&theme=minimal" alt="GitHub Activity Graph" />
 
 ---
 
@@ -59,7 +61,7 @@
   A full-stack role-based system with exams, trainers, student dashboards and real-time updates.
 
 - 🔗 [Laravel Project](#) – *(Coming Soon)*  
-- 🔗 [Project 3 Title](#) – *(Coming Soon)*
+
 
 ---
 
