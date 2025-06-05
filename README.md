@@ -40,6 +40,12 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mbuda-branice-njira&column=7" alt="GitHub Trophies" />
+</p>
+
 
 ### 📈 GitHub Stats
 
