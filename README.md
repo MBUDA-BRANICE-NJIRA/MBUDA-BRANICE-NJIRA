@@ -23,6 +23,9 @@
 
 ---
 
+### 💡PASSIONATE AND DEDICATION IS MY MOTIVATION
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="1000"/>
+
 
 ### 🛠️ Skills & Tools
 
