@@ -8,6 +8,10 @@
 ---
 
 ### 💫 About Me
+🎓 I'm a Computer Science graduate with a strong foundation in software engineering, data science, and mathematics.
+💻 I'm a Full-Stack Web Developer skilled in building robust, scalable applications using modern technologies across the frontend and backend
+🔬 My research interests span Computer Vision, Geometric Machine Learning, and Group Theory, blending mathematical rigor with practical AI applications.
+🌱 I’m continuously learning and exploring the intersections between deep learning, geometry, and human-centered design.
 
 - 🔭 Currently working on: `Full-stack Project` 🚧  
 - 🎯 Goal: Building scalable and secure full-stack applications  
