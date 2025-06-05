@@ -1,48 +1,48 @@
-# Hi, I'm Mbuda Branice Njira! 👋
-![Animated Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<h1 align="center">Hi 👋, I'm MBUDA BRANICE NJIRA</h1>
+<h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-##About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbuda-branice-njira&label=Profile%20views&color=0e75b6&style=flat" alt="mbuda-branice-njira" /> </p>
 
-I'm a passionate full-stack developer with a love for clean code and innovative solutions. My journey in tech is fueled by curiosity and the desire to create meaningful applications.
+- 🔭 I’m currently working on **[MBUDA-BRANICE-NJIRA](https://github.com/MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA)**  
+- 🌱 I’m currently learning **VueJs, Laravel, and Advanced React**  
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 🤝 I’m looking for help with **Scaling Microservices**  
+- 💬 Ask me about **PhP, React, Node.js, MongoDB**  
+- 📫 How to reach me: **mbudanjira@gmail.com**  
+- ⚡ Fun fact: *I love solving real-world problems through code!*  
 
-- 🔭 Currently working on: School-System web applications
-- 🌱 Learning: PHP
-- 💬 Ask me about: Web development, system design, or career growth
-- ⚡ Fun fact: I consider debugging my superpower - every error is a puzzle to solve! 🧩
+---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,js,nodejs,express,mongodb,php,tailwind,git,github" />
+</p>
 
-## 📊 GitHub Analytics
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&layout=compact&langs_count=8&theme=radical"/>
-</div>
+### 📊 GitHub Stats
 
-![Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&theme=redical&area=true&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbuda-branice-njira&show_icons=true&locale=en" alt="mbuda-branice-njira" />
+</p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MBUDA-BRANICE-NJIRA/MBUDA-BRANICE-NJIRA&theme=radical&fire=DD472B)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbuda-branice-njira" alt="mbuda-branice-njira" />
+</p>
 
-## 🌎 Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbuda-branice-njira-a04771305/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBUDA-BRANICE-NJIRA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+### 🔗 Connect with Me
 
-## 🎯 Recent Achievements
-
-- 🏆 Completed 100 days of code challenge learnin on Javascript
-- 🚀 Launched my first open-source project
-- 📈 Contributed to 5+ repositories this month
-
-## 📝 Latest Blog Posts
-<!-- Uncomment and add your blog posts when available -->
-<!-- - [How I optimized my React app](https://your-blog.com/optimize-react) -->
-<!-- - [My journey into tech](https://your-blog.com/tech-journey) -->
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:your.email@example.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+</p>
